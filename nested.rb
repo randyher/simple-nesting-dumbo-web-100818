@@ -86,7 +86,6 @@ programmer_hash[:yukihiro_matsumoto]={
   languages:["LISP", "C"]
 }
 
-programmer_hash[:yukihiro_matsumoto]
 end
 
 def changing_alan
